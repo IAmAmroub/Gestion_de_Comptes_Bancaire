@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComptePackage/ComptePackage.iml" filepath="$PROJECT_DIR$/ComptePackage/ComptePackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gestion de Comptes Bancaire.iml" filepath="$PROJECT_DIR$/Gestion de Comptes Bancaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banquePackage/banquePackage.iml" filepath="$PROJECT_DIR$/banquePackage/banquePackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clientPackage/clientPackage.iml" filepath="$PROJECT_DIR$/clientPackage/clientPackage.iml" />
+    </modules>
+  </component>
+</project>
